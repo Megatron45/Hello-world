@@ -1,0 +1,2 @@
+# Hello-world
+Mācāmies github
